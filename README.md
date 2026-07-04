@@ -1,4 +1,4 @@
-# Data Sync Pipeline (DSP)
+<img width="607" height="376" alt="image" src="https://github.com/user-attachments/assets/4be68293-3e2b-4336-80e0-dc8c9425b6e6" /><img width="607" height="376" alt="image" src="https://github.com/user-attachments/assets/c18b69e4-b666-456d-9a81-81ba6a5ff043" /># Data Sync Pipeline (DSP)
 
 An automated pipeline that ingests Help Center articles via the Zendesk API, normalizes HTML into clean Markdown, and synchronizes only changed content (using MD5 hashing) to Google Gemini's Vector Store.
 
@@ -102,10 +102,7 @@ The scraper is containerized with Docker and deployed to **Railway** as a schedu
 
 **Latest Deployment Logs**
 
-```
-[https://your-railway-deployment-link](https://railway.com/project/2ce287bb-b8f8-44c8-ba08-b564032715ab/service/6cd3c528-deb4-4d74-b12c-1717614fa447?environmentId=40f98510-3f6d-45fe-a5e7-6903efb79ac6&id=860b4359-911c-40cc-bde8-ad37e01db602#deploy)
-```
-![Uploading image.png…]()
+[View Railway Deployment Logs](https://railway.com/project/2ce287bb-b8f8-44c8-ba08-b564032715ab/service/6cd3c528-deb4-4d74-b12c-1717614fa447?environmentId=40f98510-3f6d-45fe-a5e7-6903efb79ac6&id=860b4359-911c-40cc-bde8-ad37e01db602#deploy)
 
 ---
 
