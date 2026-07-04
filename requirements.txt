@@ -1,0 +1,4 @@
+requests==2.32.4
+markdownify==1.2.3
+google-genai==2.10.0
+python-dotenv==1.2.2
