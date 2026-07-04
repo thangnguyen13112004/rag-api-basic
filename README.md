@@ -118,14 +118,4 @@ The image below demonstrates the assistant successfully answering the sample que
 
 The response includes the correct answer along with citations from the indexed knowledge base.
 
-<!-- Replace with your screenshot -->
-
-```text
-docs/
-└── assistant-screenshot.png
-```
-
-```md
-![Assistant Demo](<img width="970" height="485" alt="image" src="https://github.com/user-attachments/assets/0bd8f357-3f42-4b1e-be70-9b3e93dc022a" />
-)
-```
+![Assistant Demo](https://github.com/user-attachments/assets/0bd8f357-3f42-4b1e-be70-9b3e93dc022a)
