@@ -75,7 +75,7 @@ docker run --env-file .env dsp-job
 
 ---
 
-### 2. Test the AI Assistant (OptiBot)
+### 2. Test the AI Assistant
 
 Launch the assistant connected to the Gemini Vector Store.
 
