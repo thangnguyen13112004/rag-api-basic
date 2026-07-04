@@ -126,5 +126,6 @@ docs/
 ```
 
 ```md
-![Assistant Demo](docs/assistant-screenshot.png)
+![Assistant Demo](<img width="970" height="485" alt="image" src="https://github.com/user-attachments/assets/0bd8f357-3f42-4b1e-be70-9b3e93dc022a" />
+)
 ```
