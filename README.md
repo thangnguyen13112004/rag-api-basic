@@ -102,11 +102,10 @@ The scraper is containerized with Docker and deployed to **Railway** as a schedu
 
 **Latest Deployment Logs**
 
-> Replace this placeholder with your Railway deployment logs URL.
-
 ```
-https://your-railway-deployment-link
+[https://your-railway-deployment-link](https://railway.com/project/2ce287bb-b8f8-44c8-ba08-b564032715ab/service/6cd3c528-deb4-4d74-b12c-1717614fa447?environmentId=40f98510-3f6d-45fe-a5e7-6903efb79ac6&id=860b4359-911c-40cc-bde8-ad37e01db602#deploy)
 ```
+![Uploading image.png…]()
 
 ---
 
