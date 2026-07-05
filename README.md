@@ -75,7 +75,7 @@ docker run --env-file .env dsp-job
 
 ---
 
-### 2. Test the AI Assistant (OptiBot)
+### 2. Test the AI Assistant
 
 Launch the assistant connected to the Gemini Vector Store.
 
@@ -102,12 +102,9 @@ The scraper is containerized with Docker and deployed to **Railway** as a schedu
 
 **Latest Deployment Logs**
 
-> Replace this placeholder with your Railway deployment logs URL.
+[View Railway Deployment Logs](https://railway.com/project/2ce287bb-b8f8-44c8-ba08-b564032715ab/service/6cd3c528-deb4-4d74-b12c-1717614fa447?environmentId=40f98510-3f6d-45fe-a5e7-6903efb79ac6&id=860b4359-911c-40cc-bde8-ad37e01db602#deploy)
 
-```
-https://your-railway-deployment-link
-```
-
+<img width="607" height="376" alt="image" src="https://github.com/user-attachments/assets/c18b69e4-b666-456d-9a81-81ba6a5ff043" />
 ---
 
 ## 📸 Assistant Screenshot
@@ -118,13 +115,4 @@ The image below demonstrates the assistant successfully answering the sample que
 
 The response includes the correct answer along with citations from the indexed knowledge base.
 
-<!-- Replace with your screenshot -->
-
-```text
-docs/
-└── assistant-screenshot.png
-```
-
-```md
-![Assistant Demo](docs/assistant-screenshot.png)
-```
+![Assistant Demo](https://github.com/user-attachments/assets/0bd8f357-3f42-4b1e-be70-9b3e93dc022a)
