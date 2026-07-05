@@ -14,7 +14,7 @@ load_dotenv()
 # CẤU HÌNH HỆ THỐNG
 API_URL = "https://support.optisigns.com/api/v2/help_center/en-us/articles.json?per_page=30"
 OUTPUT_DIR = "Data"
-STATE_FILE = "state_dir\state.json"
+STATE_FILE = os.path.join("state_dir", "state.json")
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 STORE_NAME = os.environ.get("GEMINI_STORE_NAME")
